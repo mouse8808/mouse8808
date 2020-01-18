@@ -1,2 +1,1 @@
-# mouse8808
-# color blue
+# mouse8808 (blue)
